@@ -32,12 +32,12 @@ I specialize in **FPGA-based digital design** and **embedded systems**, working 
 
 <h3 align="left">🛠️ Development Tools</h3>
 <ul>
+  <li>VHDL</li>
+  <li>Verilog</li>
   <li>Xilinx Vivado</li>
   <li>ModelSim</li>
   <li>Intel Quartus</li>
   <li>STM32CubeIDE</li>
-  <li>VHDL</li>
-  <li>Verilog</li>
 </ul>
 
 <br clear="both">
