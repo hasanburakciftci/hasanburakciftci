@@ -36,6 +36,8 @@ I specialize in **FPGA-based digital design** and **embedded systems**, working 
   <li>ModelSim</li>
   <li>Intel Quartus</li>
   <li>STM32CubeIDE</li>
+  <li>VHDL</li>
+  <li>Verilog</li>
 </ul>
 
 <br clear="both">
@@ -46,5 +48,3 @@ I specialize in **FPGA-based digital design** and **embedded systems**, working 
   <img src="https://github-readme-stats.vercel.app/api?username=hasanburakciftci&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanburakciftci&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 </div>
-
-
