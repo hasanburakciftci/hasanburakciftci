@@ -1,16 +1,57 @@
-## Hi there 👋
+<h3 align="left">Hi 👋🏻</h3>
 
-<!--
-**hasanburakciftci/hasanburakciftci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am **Hasan Burak Çiftci**.  
+I'm a final-year **Electrical and Electronics Engineering student at Pamukkale University**.  
+I specialize in **FPGA-based digital design** and **embedded systems**, working with **VHDL, Verilog, C, and Python**.  
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">🌐 Connect with Me 🍬</h2>
+<hr/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hasanburakciftci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/hasanburakciftci" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="mailto:hasanburak729@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<br clear="both">
+
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<img align="right" height="150" src="https://media4.giphy.com/media/zXmbOaTpbY6mA/giphy.gif"/><br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-plain.svg" height="40" alt="vhdl logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-plain.svg" height="40" alt="verilog logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+<br clear="both">
+
+<h3 align="left">🛠️ Development Tools</h3>
+<ul>
+  <li>Xilinx Vivado</li>
+  <li>ModelSim</li>
+  <li>Intel Quartus</li>
+  <li>STM32CubeIDE</li>
+</ul>
+
+<br clear="both">
+
+<h2 align="left">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanburakciftci&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanburakciftci&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+</div>
+
+<div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hasanburakciftci/hasanburakciftci/output/github-snake-dark.svg" />
+</div>
