@@ -6,7 +6,7 @@ I specialize in **FPGA-based digital design** and **embedded systems**, working 
 
 <br/>
 
-<h2 align="left">🌐 Connect with Me 🍬</h2>
+<h2 align="left">🌐 Connect with Me </h2>
 <hr/>
 <p align="left">
   <a href="https://www.linkedin.com/in/hasanburakciftci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
@@ -51,7 +51,4 @@ I specialize in **FPGA-based digital design** and **embedded systems**, working 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanburakciftci&layout=compact&theme=dracula" height="150" alt="languages graph"/>
 </div>
 
-<div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hasanburakciftci/hasanburakciftci/output/github-snake-dark.svg" />
-</div>
+
