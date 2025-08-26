@@ -18,8 +18,6 @@ I focus on **FPGA-based digital design** and **embedded systems**, working with 
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<img align="right" height="150" src="https://media4.giphy.com/media/zXmbOaTpbY6mA/giphy.gif"/><br>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
