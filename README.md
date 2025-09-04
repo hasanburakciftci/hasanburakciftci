@@ -1,8 +1,8 @@
 <h3 align="left">Hi 👋🏻</h3>
 
-Hello, I am **Hasan Burak Çiftci**.  
-I'm a final-year **Electrical and Electronics Engineering student at Pamukkale University**.  
-I focus on **FPGA-based digital design** and **embedded systems**, working with **VHDL, Verilog, C, and Python**.  
+-Hello, I am **Hasan Burak Çiftci**.  
+-I'm a final-year **Electrical and Electronics Engineering student at Pamukkale University**.  
+-I focus on **FPGA-based digital design** and **embedded systems**, working with **VHDL, Verilog, C, and Python**.  
 
 <br/>
 
