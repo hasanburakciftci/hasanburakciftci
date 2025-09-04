@@ -1,8 +1,8 @@
 <h3 align="left">Hi There 👋🏻</h3>
 
-🔧 Electrical & Electronics Engineering (Final Year) — Pamukkale University
-✏ FPGA-Based Digital Design & Embedded Systems Enthusiast
-🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32
+-🔧 Electrical & Electronics Engineering (Final Year) — Pamukkale University
+-✏ FPGA-Based Digital Design & Embedded Systems Enthusiast
+-🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32
 
 
 <br/>
