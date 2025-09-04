@@ -1,8 +1,9 @@
 <h3 align="left">Hi There 👋🏻</h3>
 
--Hello, I am **Hasan Burak Çiftci**.  
--I'm a final-year **Electrical and Electronics Engineering student at Pamukkale University**.  
--I focus on **FPGA-based digital design** and **embedded systems**, working with **VHDL, Verilog, C, and Python**.  
+🔧 Electrical & Electronics Engineering (Final Year) — Pamukkale University
+✏ FPGA-Based Digital Design & Embedded Systems Enthusiast
+🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32
+
 
 <br/>
 
