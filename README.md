@@ -2,7 +2,7 @@
 
 🔧 Electrical & Electronics Engineering (Final Year) — Pamukkale University <br>
 ✏ FPGA-Based Digital Design & Embedded Systems Enthusiast <br>  
-🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32 <br>
+🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32 
 
 
 <br/>
