@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋🏻</h3>
+<h3 align="left">Hi There 👋🏻</h3>
 
 -Hello, I am **Hasan Burak Çiftci**.  
 -I'm a final-year **Electrical and Electronics Engineering student at Pamukkale University**.  
