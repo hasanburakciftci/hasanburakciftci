@@ -2,7 +2,7 @@
 
 I am Hasan Burak Çiftci <br>
 
-🔧 Electrical & Electronics Engineering (Final Year) — Pamukkale University <br>
+🔧 Electrical & Electronics Engineer <br>
 ✏ Hardware Design, Embedded Systems & FPGA-Based Digital Design Developer <br>
 🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32 
 
