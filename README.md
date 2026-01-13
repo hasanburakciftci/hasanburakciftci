@@ -42,10 +42,3 @@ I am Hasan Burak Çiftci <br>
 </ul>
 
 <br clear="both">
-
-<h2 align="left">⚡ Stats ⚡</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanburakciftci&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanburakciftci&layout=compact&theme=dracula" height="150" alt="languages graph"/>
-</div>
