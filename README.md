@@ -3,7 +3,7 @@
 I am Hasan Burak Çiftci <br>
 
 🔧 Electrical & Electronics Engineer <br>
-✏ FPGA-Based Digital Design and Embedded Software Developer <br>
+✏ Embedded System and FPGA-Based Digital Design Developer <br>
 🛠 Proficient in VHDL, Verilog, C, Python, ModelSim, Vivado, Quartus, STM32 
 
 
