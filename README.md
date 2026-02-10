@@ -33,8 +33,8 @@ I am Hasan Burak Çiftci <br>
 
 <h3 align="left">🛠️ Development Tools</h3>
 <ul>
-  <li>VHDL</li>
-  <li>Verilog</li>
+  <li>Altium</li>
+  <li>LTspice</li>
   <li>Xilinx Vivado</li>
   <li>ModelSim</li>
   <li>Intel Quartus</li>
